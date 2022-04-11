@@ -6,7 +6,7 @@ Use nbviewer for easy viewing and downloading.
 
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
-- MLP.pdf / MLP2.pdf
+- MLP.pdf / MLP Part 2.pdf
 - Linear Regression in TensorFlow.ipynb
 - Fashion MNIST in TensorFlow.ipynb (Adapted from https://www.coursera.org/learn/introduction-tensorflow Week 1 Notebook)
 - Custom Training Loop: Converts a simple Keras model.fit into an expanded customizable training loop using GradientTape. Includes graph plotting and model visualization utilities. 
