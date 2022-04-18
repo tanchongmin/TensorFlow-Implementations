@@ -2,8 +2,6 @@
 
 This repository contains the projects I have done with TensorFlow, and includes a few tutorials.
 
-Use nbviewer for easy viewing and downloading.
-
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
 - MLP.pdf / MLP Part 2.pdf / CNN.pdf
