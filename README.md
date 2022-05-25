@@ -5,6 +5,7 @@ This repository contains the projects I have done with TensorFlow, and includes 
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
 - MLP.pdf / MLP Part 2.pdf / CNN.pdf / RNN.pdf
+- Geometric Deep Learning.pdf (Summary and personal insights of Geometry Deep Learning proto-book by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković)
 - Linear Regression in TensorFlow.ipynb
 - Fashion MNIST in TensorFlow.ipynb (Adapted from https://www.coursera.org/learn/introduction-tensorflow Week 1 Notebook)
 - Fashion MNIST (CNN) in TensorFlow.ipynb
