@@ -17,6 +17,7 @@ RL Folder:
 - Overview: Documents Reinforcement Learning Experiments and Tutorials
 - RL Part 1.pdf
 - MCTS.ipynb: Using Monte Carlo / Monte Carlo Tree Search / Value Estimates to solve the game of Nim
+- Cart Pole.ipynb: Using rule-based and DQN to solve Cart Pole
 
 Below are the projects I have done using TensorFlow (in Implementations folder):
 - Text Generation: Compares RNN vs a Markov Chain method to generate text. Surprisingly, both are around the same, just by using like n=5 previous characters to predict the next one for the Markov Chain method.
