@@ -2,8 +2,19 @@
 
 This repository contains the projects I have done with TensorFlow, and includes a few tutorials.
 
-Check out my Youtube channel which uses some of this material for lessons:
-https://www.youtube.com/channel/UCgRNCT8mrzKYebyG3Ao9DJA
+Check out my Youtube channel which uses some of this material for lessons.
+
+Other social media sites:
+
+Youtube: https://www.youtube.com/channel/UCgRNCT8mrzKYebyG3Ao9DJA/videos
+
+Twitch:  https://www.twitch.tv/johncm99 
+
+AI Blog: https://delvingintotech.wordpress.com/
+
+LinkedIn: https://www.linkedin.com/in/chong-min-tan-94652288/
+
+Twitter: https://twitter.com/johntanchongmin
 
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
