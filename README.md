@@ -2,6 +2,9 @@
 
 This repository contains the projects I have done with TensorFlow, and includes a few tutorials.
 
+Check out my Youtube channel which uses some of this material for lessons:
+https://www.youtube.com/channel/UCgRNCT8mrzKYebyG3Ao9DJA
+
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
 - MLP.pdf / MLP Part 2.pdf / CNN.pdf / RNN.pdf / Transformer.pdf
