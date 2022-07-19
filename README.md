@@ -18,12 +18,13 @@ Twitter: https://twitter.com/johntanchongmin
 
 TensorFlow / Deep Learning Tutorial:
 These are the files I have created to teach others Deep Learning:
-- MLP.pdf / MLP Part 2.pdf / CNN.pdf / RNN.pdf / Transformer.pdf
+- MLP.pdf / MLP Part 2.pdf / CNN.pdf / RNN.pdf / Transformer.pdf / GNN.pdf
 - AlphaGo:Zero.pdf
 - Geometric Deep Learning.pdf (Summary and personal insights of Geometry Deep Learning proto-book https://geometricdeeplearning.com/ by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković)
 - Linear Regression in TensorFlow.ipynb
 - Fashion MNIST in TensorFlow.ipynb (Adapted from https://www.coursera.org/learn/introduction-tensorflow Week 1 Notebook)
 - Fashion MNIST (CNN) in TensorFlow.ipynb
+- GAT_GCN_node_classification.ipynb: Graph Neural Network implementation using TensorFlow on Cora Dataset
 - Tutorial_RNN_Text_Generation.ipynb
 - Custom Training Loop: Converts a simple Keras model.fit into an expanded customizable training loop using GradientTape. Includes graph plotting and model visualization utilities. 
 
