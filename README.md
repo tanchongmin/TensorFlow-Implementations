@@ -31,6 +31,7 @@ These are the files I have created to teach others Deep Learning:
 RL Folder:
 - Overview: Documents Reinforcement Learning Experiments and Tutorials
 - RL Part 1.pdf, DQN.pdf
+- Decision Transformers.pdf
 - MCTS.ipynb: Using Monte Carlo / Monte Carlo Tree Search / Value Estimates to solve the game of Nim
 - Cart Pole.ipynb: Using rule-based and DQN to solve Cart Pole
 
