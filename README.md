@@ -28,7 +28,7 @@ These are the files I have created to teach others Deep Learning:
 - Tutorial_RNN_Text_Generation.ipynb
 - Custom Training Loop: Converts a simple Keras model.fit into an expanded customizable training loop using GradientTape. Includes graph plotting and model visualization utilities. 
 
-Paper Discussion Folder:
+Paper_Reviews Folder:
 - Overview: Documents Interesting Deep Learning / Machine Learning Papers
 - Decision Transformers.pdf
 - GATO.pdf
