@@ -28,10 +28,14 @@ These are the files I have created to teach others Deep Learning:
 - Tutorial_RNN_Text_Generation.ipynb
 - Custom Training Loop: Converts a simple Keras model.fit into an expanded customizable training loop using GradientTape. Includes graph plotting and model visualization utilities. 
 
+Paper Discussion Folder:
+- Overview: Documents Interesting Deep Learning / Machine Learning Papers
+- Decision Transformers.pdf
+- GATO.pdf
+
 RL Folder:
 - Overview: Documents Reinforcement Learning Experiments and Tutorials
 - RL Part 1.pdf, DQN.pdf
-- Decision Transformers.pdf
 - MCTS.ipynb: Using Monte Carlo / Monte Carlo Tree Search / Value Estimates to solve the game of Nim
 - Cart Pole.ipynb: Using rule-based and DQN to solve Cart Pole
 
