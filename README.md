@@ -32,6 +32,8 @@ Paper_Reviews Folder:
 - Overview: Documents Interesting Deep Learning / Machine Learning Papers
 - Decision Transformers.pdf
 - GATO.pdf
+- Policy Graident Presentation.pdf
+- AlphaTensor Presentation.pdf
 
 RL Folder:
 - Overview: Documents Reinforcement Learning Experiments and Tutorials
