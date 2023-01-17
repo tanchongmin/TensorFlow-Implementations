@@ -27,6 +27,7 @@ These are the files I have created to teach others Deep Learning:
 - GAT_GCN_node_classification.ipynb: Graph Neural Network implementation using TensorFlow on Cora Dataset
 - Tutorial_RNN_Text_Generation.ipynb
 - Custom Training Loop: Converts a simple Keras model.fit into an expanded customizable training loop using GradientTape. Includes graph plotting and model visualization utilities. 
+- GPT_Demo: Uses huggingface GPT-2 model for text generation, as well as Bertviz for attention visualization
 
 Paper_Reviews Folder:
 - Overview: Documents Interesting Deep Learning / Machine Learning Papers
