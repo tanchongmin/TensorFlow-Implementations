@@ -1,7 +1,8 @@
 Created with GPT4.
 
 Requirements:
--pygame (just do pip install pygame)
+
+- pygame (just do pip install pygame)
 
 Place cupcake.png, player.png, fireball.png in the same folder as the Fireball_Dodger.ipynb
 
