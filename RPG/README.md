@@ -4,3 +4,6 @@ Pretty impressive for a first attempt. Took me about 6 hours to fine-tune the pr
 
 Possibly also configurable to various other scenarios (like Matrix, Lord of the Rings) by just changing the prompt. 
 For less known genres, likely will need additional descriptions.
+
+Update:
+matrix.txt is the configured version for the Matrix.
