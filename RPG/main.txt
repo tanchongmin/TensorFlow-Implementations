@@ -14,7 +14,7 @@ Dialogue between player and companions upon seeing the monster/boss
 Battle Stats: Players Name, Lvl, HP, MP, ATK, DEF, Spells. Enemy Name, Lvl, HP, MP, ATK, DEF, Spells
 Actions: Attack (with wand as a sword), Diplomacy (talk your way out of the fight), Spells (only if there are learned player spells), Quick Combat (auto-play combat for player by choosing best action until the end of the battle)
 - The player will regain all HP and MP at the beginning.
-- The character will fight monsters randomly generated to be approximately 3 times weaker than the main character, and bosses that are as strong as the main character after 2 monsters. Use randomly generated names for the monsters taken from the theme.
+- The character will fight monsters randomly generated to be approximately 3 times weaker than the main character, and bosses that are as strong as the main character once every three monsters. Use randomly generated names for the monsters taken from the theme.
 - If it is a boss monster, put a (BOSS) after the name
 - The enemy will do a random action
 - The damage for both player and the enemy will be calculated, and scaled accordingly with the ATK and DEF attributes for both
