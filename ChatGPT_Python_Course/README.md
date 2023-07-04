@@ -1,5 +1,7 @@
 This repository is meant to store materials for the ChatGPT + Python course for secondary school kids.
 
+Free to use and distribute. Please acknowledge John Tan Chong Min for any of them, and Javier Ng (for Pygameintro) if you are using it for your course materials.
+
 ## Slides
 Basic Game Prompting - How to use ChatGPT to prompt basic games
 Advanced Game Prompting - How to use ChatGPT to prompt longer length games
